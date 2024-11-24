@@ -8,7 +8,7 @@ pip install pythonping
 ```
 
 ## Usage
-Just double-click `PyNetScanner.pyw` to run it without the cmd window in the background or alternatively invoke on the command line:
+Just double-click `PyNetScanner.pyw` to run it without the `cmd` window in the background or alternatively invoke on the command line:
 ```
 python PyNetScanner.pyw
 ```
