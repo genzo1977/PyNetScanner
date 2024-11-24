@@ -15,4 +15,4 @@ python PyNetScanner.pyw
 
 ## Screenshots
 \
-<img src="PyGitHubBranchCloner.png">
+<img src="PyNetScanner.png">
